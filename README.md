@@ -13,7 +13,7 @@ A passionate MERN Stack Developer and UI/UX Designer with a strong focus on buil
 
 - 📫 Reach me at **[arunkumart212004@gmail.com](mailto:arunkumart212004@gmail.com)**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arun-kumar-t-563746256) | [GitHub](https://github.com/ARUNKUMART9968)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumar-t-563746256/) | [GitHub](https://github.com/ARUNKUMART9968)
 
 ---
 
