@@ -1,85 +1,83 @@
+<h1 align="center">Hi 👋, I'm Arun Kumar T</h1>
+<h3 align="center">
+A passionate MERN Stack Developer and UI/UX Designer. I specialize in crafting user-centric web applications using MongoDB, Express.js, React.js, and Node.js. I love combining beautiful design with powerful backend logic and occasionally integrate AI/ML capabilities to deliver intelligent solutions. Whether designing wireframes in Figma or building scalable web apps, I take pride in writing clean and efficient code that solves real-world problems.
+</h3>
 
-# 👋 Hi there, I'm Arun Kumar T
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUNKUMART9968&label=Profile%20views&color=0e75b6&style=flat" alt="ARUNKUMART9968" /> </p>
 
-🎓 B.E. Computer Science @ Saveetha Engineering College  
-🌟 Passionate UI/UX Designer | MERN Stack Developer | AI/ML Enthusiast  
-📍 Chennai, India  
-📫 **Email:** [arunkumart212004@gmail.com](mailto:arunkumart212004@gmail.com)  
-🔗 **GitHub:** [ARUNKUMART9968](https://github.com/ARUNKUMART9968)  
-🔗 **LinkedIn:** [arun-kumar-t-563746256](https://www.linkedin.com/in/arun-kumar-t-563746256)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARUNKUMART9968" alt="ARUNKUMART9968" /></a> </p>
 
----
+- 🌱 I’m currently learning **.NET Core Web API and Microservices**
 
-## 💡 Objective
+- 💬 Ask me about **React.js, Node.js, MongoDB, Tailwind, and AI integration**
 
-I'm a creative and detail-oriented developer passionate about building user-centric, responsive web applications. I specialize in UI/UX design, React.js development, and integrating AI/ML capabilities to improve user experience and functionality.
+- 📫 Reach me at **[arunkumart212004@gmail.com](mailto:arunkumart212004@gmail.com)**
 
----
-
-## 🛠️ Skills
-
-**Languages & Frameworks:**  
-`Java` · `Python` · `HTML` · `CSS` · `JavaScript` · `React.js` · `Node.js` · `MongoDB`  
-**Frontend Styling:**  
-`Tailwind CSS` · `Bootstrap` · `Figma (UI/UX Design)`  
-**Soft Skills:**  
-Active Learner · Logical Thinking · Problem Solving
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arun-kumar-t-563746256) | [GitHub](https://github.com/ARUNKUMART9968)
 
 ---
 
-## 📂 Projects
-
-### 🔸 Amazon Clone  
-📌 *HTML · CSS (BEM) · JavaScript*  
-- A responsive replica of Amazon’s frontend  
-- Dynamic navbar, auto-sliding carousel, product grids, scrollable deals
-
-### 🔸 AI Code Reviewer  
-📌 *MERN Stack · Groq API · DeepSeek R1*  
-- AI-powered web app with chatbot and content generation  
-- Real-time code review features using custom AI model integration
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 💼 Internship
+## 💼 Projects
 
-**Web Application Intern @ Arjun Vision Tech Solutions**  
-- Built responsive UIs using React.js  
-- Developed REST APIs with Node.js and Express  
-- Worked with MongoDB for database design and data modeling
+### 🔹 [AI Code Reviewer](https://github.com/ARUNKUMART9968/AI-Code-Reviewer)
+🛠️ *React, Node.js, Groq API, DeepSeek, TailwindCSS*
+
+- Built a full-stack AI code review web application.
+- Integrated DeepSeek and Groq API for lightning-fast and accurate code analysis.
+- Supports Python, Java, C, C++ with syntax-aware feedback and suggestions.
+
+---
+
+### 🔹 Amazon Clone
+🛠️ *HTML, CSS (BEM), JavaScript*
+
+- A responsive frontend replica of Amazon.
+- Features include auto-sliding carousel, dynamic navbar, scrollable product deals, and a mobile-friendly layout.
 
 ---
 
 ## 📜 Certifications
 
 - 🌐 Introduction to IoT – NPTEL  
-- 🧩 Basics of MongoDB – Great Learning  
-- ☁️ AWS Cloud Practitioner – ICT Academy
+- 📘 Basics of MongoDB – Great Learning  
+- ☁️ AWS Cloud Practitioner – ICT Academy  
 
 ---
 
-## 📈 GitHub Stats
+## 🧪 Internships
 
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNKUMART9968&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNKUMART9968&layout=compact&theme=radical)
+**Web App Intern @ Arjun Vision Tech Solutions, Chennai**
+
+- Built responsive UI components in React.js
+- Worked on RESTful API design using Node.js and Express
+- Performed CRUD operations and modeling in MongoDB
 
 ---
 
-## ✨ Fun Fact
-> I debug not just to fix bugs... but to understand how my brain works. 😉
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARUNKUMART9968&show_icons=true&locale=en&theme=radical" alt="Arun's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARUNKUMART9968&theme=radical" alt="Arun's GitHub Streak" />
+</p>
 
-<!--
-**ARUNKUMART9968/ARUNKUMART9968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💡 **More projects coming soon. Follow me to stay updated!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
