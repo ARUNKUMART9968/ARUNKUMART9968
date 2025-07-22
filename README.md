@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar T</h1>
 <h3 align="center">
-A passionate MERN Stack Developer and UI/UX Designer. I specialize in crafting user-centric web applications using MongoDB, Express.js, React.js, and Node.js. I love combining beautiful design with powerful backend logic and occasionally integrate AI/ML capabilities to deliver intelligent solutions. Whether designing wireframes in Figma or building scalable web apps, I take pride in writing clean and efficient code that solves real-world problems.
+A passionate MERN Stack Developer and UI/UX Designer with a strong focus on building user-centric and scalable web applications. I combine elegant design with robust backend logic using MongoDB, Express.js, React.js, and Node.js. From crafting wireframes in Figma to developing full-stack solutions, I take pride in writing clean, efficient code that solves real-world problems with clarity and purpose
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUNKUMART9968&label=Profile%20views&color=0e75b6&style=flat" alt="ARUNKUMART9968" /> </p>
