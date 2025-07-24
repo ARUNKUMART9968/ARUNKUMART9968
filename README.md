@@ -35,15 +35,55 @@ A passionate MERN Stack Developer and UI/UX Designer with a strong focus on buil
 ## 💼 Projects
 
 ### 🔹 [AI Code Reviewer](https://github.com/ARUNKUMART9968/AI-Code-Reviewer)
-🛠️ *React, Node.js, Groq API, DeepSeek, TailwindCSS*
+🧠 AI-Powered Review Tool: Uses AI to analyze and suggest improvements for source code
 
-- Built a full-stack AI code review web application.
-- Integrated DeepSeek and Groq API for lightning-fast and accurate code analysis.
-- Supports Python, Java, C, C++ with syntax-aware feedback and suggestions.
+🗂️ Language Support: Supports Python, Java, C, and C++ with syntax-aware suggestions
+
+🎨 Syntax Highlighting: Clean, developer-friendly interface with intuitive code formatting
+
+⚙️ Tech Stack: Built with React, TailwindCSS, Node.js, and Groq SDK
+
+💻 Smooth UX: Fast performance with real-time feedback for a seamless coding experience
+
+🌐 Frontend & Backend Integration: Full-stack solution that mimics IDE-like review interaction
 
 ---
 
-### 🔹 Amazon Clone
+### 🔹 [Amazon-Clone](https://github.com/ARUNKUMART9968/amazon-clone.git)
+💻 Tech Stack: HTML, CSS (BEM), JavaScript
+
+🧭 Navigation: Two-tier navbar with fully functional search bar
+
+🖼️ UI Elements: Auto-sliding carousel and responsive product grid layout
+
+🛍️ Product Pages: Detailed product views with image previews and descriptions
+
+📱 Mobile Optimization: Includes responsive sign-in/sign-up UI for all screen sizes
+
+💡 Features: Horizontally scrollable deals, interactive buttons, and smooth UI flow
+
+🌐 Cross-Browser Compatible and optimized for fast performance
+
+
+---
+### 🔹 [REDEFINE GAMING](https://github.com/ARUNKUMART9968/Gamingwebsite.git)
+🚀 Tech Stack: React, TailwindCSS, GSAP
+
+🎥 Multimedia-Rich: Integrates cinematic videos, immersive audio, and engaging interactive content
+
+⚡ Smooth Animations: Powered by GSAP ScrollTrigger for seamless scroll-based motion and transitions
+
+🖥️ Responsive Design: Optimized for all screen sizes with fast loading and fluid responsiveness
+
+🧠 Interactive Storytelling: Engages users with dynamic, futuristic web interactions
+
+🛠️ Extensible Architecture: Easily customizable and ready for features like Web3 integration or 3D scenes (e.g., Three.js)
+
+📦 Easy Deployment: Lightweight and production-ready for fast hosting and CI/CD workflows
+
+---
+
+### 🔹 [Amazon-Clone](https://github.com/ARUNKUMART9968/amazon-clone.git)
 🛠️ *HTML, CSS (BEM), JavaScript*
 
 - A responsive frontend replica of Amazon.
