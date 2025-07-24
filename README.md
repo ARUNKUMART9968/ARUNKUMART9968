@@ -3,9 +3,9 @@
 A passionate MERN Stack Developer and UI/UX Designer with a strong focus on building user-centric and scalable web applications. I combine elegant design with robust backend logic using MongoDB, Express.js, React.js, and Node.js. From crafting wireframes in Figma to developing full-stack solutions, I take pride in writing clean, efficient code that solves real-world problems with clarity and purpose
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUNKUMART9968&label=Profile%20views&color=0e75b6&style=flat" alt="ARUNKUMART9968" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARUNKUMART9968" alt="ARUNKUMART9968" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARUNKUMART9968&theme=radical&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 - 🌱 I’m currently learning **.NET Core Web API and Microservices**
 
