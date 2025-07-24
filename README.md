@@ -83,13 +83,6 @@ A passionate MERN Stack Developer and UI/UX Designer with a strong focus on buil
 
 ---
 
-### 🔹 [Amazon-Clone](https://github.com/ARUNKUMART9968/amazon-clone.git)
-🛠️ *HTML, CSS (BEM), JavaScript*
-
-- A responsive frontend replica of Amazon.
-- Features include auto-sliding carousel, dynamic navbar, scrollable product deals, and a mobile-friendly layout.
-
----
 
 ## 📜 Certifications
 
